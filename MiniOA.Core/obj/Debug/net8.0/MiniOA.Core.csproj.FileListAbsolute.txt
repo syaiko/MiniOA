@@ -1,0 +1,12 @@
+D:\C#\MyProject\MiniOA\MiniOA.Core\bin\Debug\net8.0\MiniOA.Core.deps.json
+D:\C#\MyProject\MiniOA\MiniOA.Core\bin\Debug\net8.0\MiniOA.Core.dll
+D:\C#\MyProject\MiniOA\MiniOA.Core\bin\Debug\net8.0\MiniOA.Core.pdb
+D:\C#\MyProject\MiniOA\MiniOA.Core\obj\Debug\net8.0\MiniOA.Core.csproj.AssemblyReference.cache
+D:\C#\MyProject\MiniOA\MiniOA.Core\obj\Debug\net8.0\MiniOA.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MyProject\MiniOA\MiniOA.Core\obj\Debug\net8.0\MiniOA.Core.AssemblyInfoInputs.cache
+D:\C#\MyProject\MiniOA\MiniOA.Core\obj\Debug\net8.0\MiniOA.Core.AssemblyInfo.cs
+D:\C#\MyProject\MiniOA\MiniOA.Core\obj\Debug\net8.0\MiniOA.Core.csproj.CoreCompileInputs.cache
+D:\C#\MyProject\MiniOA\MiniOA.Core\obj\Debug\net8.0\MiniOA.Core.dll
+D:\C#\MyProject\MiniOA\MiniOA.Core\obj\Debug\net8.0\refint\MiniOA.Core.dll
+D:\C#\MyProject\MiniOA\MiniOA.Core\obj\Debug\net8.0\MiniOA.Core.pdb
+D:\C#\MyProject\MiniOA\MiniOA.Core\obj\Debug\net8.0\ref\MiniOA.Core.dll
